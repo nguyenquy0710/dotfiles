@@ -1,5 +1,6 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
+// https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-dotnet-project-for-codespaces
 {
   "name": "C# (.NET)",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
